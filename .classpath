@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/USC/14Spring/585/Term Paper/termproject/blueprints-core-2.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/USC/14Spring/585/Term Paper/termproject/jta.jar"/>
+	<classpathentry kind="lib" path="D:/USC/14Spring/585/Term Paper/termproject/neo2.jar"/>
+	<classpathentry kind="lib" path="D:/USC/14Spring/585/Term Paper/termproject/neo4j-desktop-2.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/USC/14Spring/585/Term Paper/termproject/neo4j-kernel-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/asm-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/asm-analysis-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/asm-commons-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/asm-tree-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/asm-util-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/blueprints-core-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/blueprints-core-2.5.0-20140320.105052-37.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/colt-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/commons-beanutils-core-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/concurrent-1.3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/concurrentlinkedhashmap-lru-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/gremlin-groovy-2.5.0-20140125.153413-8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/gremlin-java-2.5.0-20140125.153323-8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/groovy-1.8.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/hazelcast-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/jackson-annotations-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/jackson-core-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/jackson-databind-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/jackson-datatype-json-org-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/jansi-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/javassist-3.16.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/jettison-1.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/jline-0.9.94.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/jna-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/jna-platform-4.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/json-20090211.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/neo2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/neo4j-desktop-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/neo4j-kernel-1.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/orient-commons-1.7-rc2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/orientdb-client-1.7-rc2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/orientdb-core-1.7-rc2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/orientdb-distributed-1.7-rc2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/orientdb-enterprise-1.7-rc2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/orientdb-graphdb-1.7-rc2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/orientdb-nativeos-1.7-rc2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/orientdb-object-1.7-rc2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/orientdb-server-1.7-rc2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/orientdb-tools-1.7-rc2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/pipes-2.5.0-20140125.162807-6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/snappy-0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/WangQiang/workspace/graphDatabaseBenchmark/stax-api-1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
